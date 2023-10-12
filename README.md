@@ -1,0 +1,1 @@
+This is a readme file to showcase our current understanding and level of skill with HTML. To do this we are required to compile a simple recipe book website - to do this we will most likely need to create multiple interconnected webpages with hyperlinks, use headings, descriptive text and items lists in the body of these pages, and inject pictures in these webpages. 
